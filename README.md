@@ -1,10 +1,12 @@
 # Shadow DOM datePicker
 
+> **<span style="color: #C00">createShadowRoot is deprecated</span>**
+
 Custom datePicker component, base on Shadow DOM.
 
 ## Demonstration
 
-<http://www.toobug.net/shadowDatePicker/example.html>
+~~<http://www.toobug.net/shadowDatePicker/example.html>~~
 
 ## How to use
 
