@@ -4,10 +4,6 @@
 
 Custom datePicker component, base on Shadow DOM.
 
-## Demonstration
-
-~~<http://www.toobug.net/shadowDatePicker/example.html>~~
-
 ## How to use
 
 ```html
